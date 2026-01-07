@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Zines: A Personal History"
+logline: "My love of independent publishing"
+---
+

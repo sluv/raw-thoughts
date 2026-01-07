@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Anti-Enshittification"
+logline: "Why I'm taking back control over my creative stuff."
+---
+I've been a fan of Cory Doctorow ever since listening to his award-winning novella "The Man Who Sold the Moon" in a _Best of_ Sci-Fi collection about a decade ago.
+
+Last year, I listened to _Enshittification_ and it really resonated with me.
+
+First outta the gate: I realize that Doctorow's book represents the culmination of what I am aspiring to do with this blog (see _Thinking Aloud_): he made and collected keen observations, noted trends and follow-on effects over time, analyzed his findings and reached a conclusion, then crafted a compelling argument both for his thesis and his ideas for how to fix it.
+
+Disparate ideas bumped around in his head, and he shaped a new constellation in his night sky out of those collisions. _Enshittification_ is his way of sharing his sky map.
+
+His point is so obviously apparent that you think, "Why hasn't anyone else brought this up before?!" Plus, who doesn't like the word _enshittification_? (As a wannabe writer and a lover of language, I wish I'd thought of it.)
+
+But on an even deeper level, the book reawakened my desire to protect my own creative output more fiercely. Whether simply as a pawn to the greater cultural influences of the 21st century, or for more deep-seated personal reasons^1^, I have always been a bit weak-kneed when it comes to championing my own work.
+
+Somehow, through Doctorow's discussion of _interoperability_, I was able to recontextulize my own creatie output. To recognize that I shouldn't just be giving away the products of my insight, experience, and creative instincts and then shrugging my shoulders when they get repurposed, pruned, or outright reworked.
+
+So, in addition to all my other resolutions for 2026 (I've got a bumper crop this year!), I'm going to try and be kinder to my maker self, honor the things I come up with — even in their early, imperfect _draft_ stages — and endeavor to document and revisit them rather than chucking them aside as soon as new project grabs my attention.
+
+This represents a significant change for me, so the results remain to be seen. I'm hoping to document any projects I actually do accomplish on my _sluv_ website.
+
+For now, here's hoping that I can cobble together some -worthwhile-^2^ artistic expressions in 2026, and if you are a maker/DIYer/creator then I extend that wish to you, as well. _Cheers!_
+
+"You get whatever accomplishment you are willing to declare."<br>_Georgia O'Keeffe_
+
+<div class="footer">
+    <p class="footnote">
+        1. _Hoo boy_, I think there are more of these than I care to admit. Fodder for future posts!
+    </p>
+    <p class="footnote">
+        2. Dammit, there's the problem right there. I set a crazy high standard for what constitutes a project being _worthwhile_. I need to free myself to create more, critique less. _Let's Stuart Smalley this bitch!_
+    </p>
+</div>
